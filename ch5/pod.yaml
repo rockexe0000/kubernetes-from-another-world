@@ -8,6 +8,6 @@ metadata:
 spec:
   containers:
     - name: foo
-      image: mikehsu0618/foo
+      image: rockexe0000/foo
       ports:
         - containerPort: 8080

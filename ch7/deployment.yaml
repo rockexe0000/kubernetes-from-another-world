@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: foo
-          image: mikehsu0618/foo
+          image: rockexe0000/foo
           ports:
             - containerPort: 8080
 ---
@@ -39,6 +39,6 @@ spec:
     spec:
       containers:
         - name: bar
-          image: mikehsu0618/bar
+          image: rockexe0000/bar
           ports:
             - containerPort: 8080

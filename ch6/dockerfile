@@ -6,7 +6,7 @@ WORKDIR /app
 
 COPY . .
 
-RUN go mod init foo
+RUN go mod init bar
 
 RUN go mod tidy
 
